@@ -1,0 +1,20 @@
+C:\Users\ztram\source\repos\Notetaking App\Notetaking App\bin\Debug\netcoreapp3.1\Notetaking App.exe
+C:\Users\ztram\source\repos\Notetaking App\Notetaking App\bin\Debug\netcoreapp3.1\Notetaking App.deps.json
+C:\Users\ztram\source\repos\Notetaking App\Notetaking App\bin\Debug\netcoreapp3.1\Notetaking App.runtimeconfig.json
+C:\Users\ztram\source\repos\Notetaking App\Notetaking App\bin\Debug\netcoreapp3.1\Notetaking App.runtimeconfig.dev.json
+C:\Users\ztram\source\repos\Notetaking App\Notetaking App\bin\Debug\netcoreapp3.1\Notetaking App.dll
+C:\Users\ztram\source\repos\Notetaking App\Notetaking App\bin\Debug\netcoreapp3.1\Notetaking App.pdb
+C:\Users\ztram\source\repos\Notetaking App\Notetaking App\obj\Debug\netcoreapp3.1\Notetaking App.csproj.AssemblyReference.cache
+C:\Users\ztram\source\repos\Notetaking App\Notetaking App\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+C:\Users\ztram\source\repos\Notetaking App\Notetaking App\obj\Debug\netcoreapp3.1\App.g.cs
+C:\Users\ztram\source\repos\Notetaking App\Notetaking App\obj\Debug\netcoreapp3.1\Notetaking App_MarkupCompile.cache
+C:\Users\ztram\source\repos\Notetaking App\Notetaking App\obj\Debug\netcoreapp3.1\Notetaking App_MarkupCompile.lref
+C:\Users\ztram\source\repos\Notetaking App\Notetaking App\obj\Debug\netcoreapp3.1\MainWindow.baml
+C:\Users\ztram\source\repos\Notetaking App\Notetaking App\obj\Debug\netcoreapp3.1\Notetaking App.g.resources
+C:\Users\ztram\source\repos\Notetaking App\Notetaking App\obj\Debug\netcoreapp3.1\Notetaking App.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ztram\source\repos\Notetaking App\Notetaking App\obj\Debug\netcoreapp3.1\Notetaking App.AssemblyInfoInputs.cache
+C:\Users\ztram\source\repos\Notetaking App\Notetaking App\obj\Debug\netcoreapp3.1\Notetaking App.AssemblyInfo.cs
+C:\Users\ztram\source\repos\Notetaking App\Notetaking App\obj\Debug\netcoreapp3.1\Notetaking App.csproj.CoreCompileInputs.cache
+C:\Users\ztram\source\repos\Notetaking App\Notetaking App\obj\Debug\netcoreapp3.1\Notetaking App.dll
+C:\Users\ztram\source\repos\Notetaking App\Notetaking App\obj\Debug\netcoreapp3.1\Notetaking App.pdb
+C:\Users\ztram\source\repos\Notetaking App\Notetaking App\obj\Debug\netcoreapp3.1\Notetaking App.genruntimeconfig.cache
